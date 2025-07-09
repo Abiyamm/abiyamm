@@ -1,5 +1,5 @@
 ## <h1>Hi 👋, I'm  Abigiya Software engineering Student. 
-  Developer | Python & Machine Learning Enthusiast | Robotics Explorer</h1>
+ <h1> Python & Machine Learning Enthusiast </h1>
 <p>Software engineering student, loves innovation.
   Excited problem solver, exploring ideas, eager to learn,
   contribute, and create positive tech impact. 🚀💻</p>
