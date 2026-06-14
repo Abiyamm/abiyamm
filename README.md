@@ -1,12 +1,11 @@
-## <h1>Hi 👋, I'm Abigiya Alemayehu</h1>
-<h3>Frontend Developer & Full-Stack Explorer 🚀</h3>
+<h1>Hi 👋, I'm Abigiya Alemayehu</h1>
+<h3>Full-Stack Explorer 🚀</h3>
 <p>
-  I am a Software Engineer with a deep passion for Frontend Development and building clean, 
-  highly interactive user experiences. Backed by a rigorous Python backend foundation from 
-  ALX Africa, I specialize in crafting modern web applications using <strong>Next.js (React), 
-  Tailwind CSS, and Supabase (PostgreSQL)</strong>. 
+  I am a Software Engineer with a deep passion for Frontend & Backend Development. I love building clean, 
+  highly interactive user experiences on the client side, while ensuring seamless data flow, security, 
+  and efficient server-to-frontend delivery on the backend. I build modern web applications using 
+  <strong>Next.js (React), Tailwind CSS, and Supabase (PostgreSQL)</strong>.
 </p>
-
 <!-- Tech Stack Badges -->
 <p align="left">
   <!-- Frontend -->
